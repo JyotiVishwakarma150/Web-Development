@@ -1,0 +1,17 @@
+
+        *{
+            margin:0;
+            padding:0;
+            font-family: 'times new roman','Times New Roman', Times, serif;
+        }
+        #nav h1{
+            background-color: aquamarine;
+            text-align: center;
+            text-transform: uppercase;
+        }
+        #inner{
+            font-size: 10px;
+        }
+        #outer{
+            font-size: 25px;;
+        }
